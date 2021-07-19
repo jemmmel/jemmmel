@@ -1,4 +1,3 @@
-@dapperrrdan
-student engineer
-
-this is my pile of software stuff
+@jemmmel
+Computer & Network student engineer
+Electrical guy
