@@ -1,3 +1,2 @@
 @jemmmel
-Computer & Network student engineer
-Electrical guy
+Computer & Network student engineer/electrical guy
