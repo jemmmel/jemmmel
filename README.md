@@ -1,2 +1,3 @@
 @jemmmel
-Computer & Network student engineer/electrical guy
+Autonomous systems & computer vision
+FUTU-RE Co. LTD. Nagoya, Japan
