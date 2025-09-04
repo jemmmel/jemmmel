@@ -1,3 +1,3 @@
 @jemmmel
-Autonomous systems & computer vision
-FUTU-RE Co. LTD. Nagoya, Japan
+systems design engineer 
+Blue Innovation, Tokyo Japan
